@@ -1,4 +1,4 @@
 # NavBarAnimation!
 
 Project:
-[screenshot](Navbar.png)
+[screenshot](NAVBar.png)
